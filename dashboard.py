@@ -105,7 +105,7 @@ def update_dashboard():
 
 
         # -------------------------------
-        # AI Prediction
+        # ML Prediction
         # -------------------------------
 
         X = pd.DataFrame(
